@@ -39,6 +39,8 @@ h3, p, a {
 .menu {
     text-align: right;
     padding: 15px;
+    border-bottom: solid 1px;
+
 }
 
 .pictureframe {
