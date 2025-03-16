@@ -31,7 +31,6 @@ h1 {
 
 h2 {
     font-size: 40px;
-
 }
 
 h3, p, a {
@@ -43,22 +42,9 @@ h3, p, a {
 }
 
 .menu {
-    
-    border-bottom: solid 1px;
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
-}
-    
-.menuColumn {
     padding: 15px;
-    flex: 50%;
-    max-width: 50%;
-}
-
-
-.pictureframe {
-    border: 10px solid rgb(145, 95, 64);
+    border-bottom: solid 1px;
+    text-align: right;
 }
 
 * {
@@ -155,6 +141,6 @@ h3, p, a {
     }
 
     .rooftop h1 {
-        font-size: 20;
+        font-size: 20px;
     }
   }
