@@ -81,6 +81,10 @@ h3, p, a {
     .columnIndex {
       flex: 100%;
       max-width: 100%;
+      
+    }
+    .columnImage {
+        margin-left: 50%;
     }
   }
   
