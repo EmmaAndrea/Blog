@@ -28,7 +28,7 @@ h1 {
     letter-spacing: -6.5px;
     overflow-wrap: break-world;
 }
-p, a {
+h3, p, a {
     color: rgb(145, 95, 64);
     font-family:'freight-big-pro';
     font-weight: normal;
