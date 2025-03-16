@@ -75,10 +75,16 @@ h3, p, a {
   .columnIndex {
     flex: 25%;
     max-width: 25%;
-    padding: 0 4px;
   }
+
+  .rowIndex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   .columnIndex img {
     vertical-align: middle;
+    padding: 5%;
   }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
@@ -90,7 +96,7 @@ h3, p, a {
     .columnIndex {
       flex: 100%;
       max-width: 100%;
-      
+      vertical-align: middle;
     }
   }
   
