@@ -151,6 +151,10 @@ h3, p, a {
     }
 
     h2 {
-        font-size: 12px;
+        font-size: 15px;
+    }
+
+    h1 {
+        font-size: 20;
     }
   }
