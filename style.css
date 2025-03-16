@@ -115,4 +115,8 @@ h3, p, a {
       max-width: 100%;
       vertical-align: middle;
     }
+
+    a {
+        font-size: 10pt;
+    }
   }
