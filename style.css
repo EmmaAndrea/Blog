@@ -71,6 +71,15 @@ h3, p, a {
     margin-top: 8px;
     vertical-align: middle;
   }
+
+  .columnIndex {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+  }
+  .columnIndex img {
+    vertical-align: middle;
+  }
   
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media (max-width: 800px) {
@@ -82,9 +91,6 @@ h3, p, a {
       flex: 100%;
       max-width: 100%;
       
-    }
-    .columnImage {
-        margin-left: 50%;
     }
   }
   
