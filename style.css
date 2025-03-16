@@ -106,6 +106,9 @@ h3, p, a {
       flex: 50%;
       max-width: 50%;
     }
+    h2 {
+        font-size: 15pt;
+    }
     
   }
   
