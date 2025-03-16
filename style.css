@@ -29,11 +29,16 @@ h1 {
     overflow-wrap: break-world;
     
 }
+
+p {
+    
+}
 h3, p, a {
     color: rgb(145, 95, 64);
     font-family:'freight-big-pro';
     font-weight: normal;
     letter-spacing: -0.5px;
+    font-size: 20px;
 }
 
 .menu {
@@ -80,10 +85,16 @@ h3, p, a {
     max-width: 25%;
   }
 
+  .textbox {
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
   .rowIndex {
     display: flex;
     flex-wrap: wrap;
-    padding: 5%;
   }
 
   .columnIndex img {
