@@ -27,6 +27,7 @@ h1 {
     font-weight: normal;
     letter-spacing: -6.5px;
     overflow-wrap: break-world;
+    
 }
 h3, p, a {
     color: rgb(145, 95, 64);
@@ -80,6 +81,7 @@ h3, p, a {
   .rowIndex {
     display: flex;
     flex-wrap: wrap;
+    padding: 5%;
   }
 
   .columnIndex img {
