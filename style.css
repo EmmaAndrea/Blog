@@ -78,8 +78,6 @@ a:link {
   text-align: left;
   letter-spacing: 1px;
 }
-
-
   
   /* Responsive layout with flex boxes*/
 
@@ -168,7 +166,7 @@ a:link {
           padding: 0%;
       }
   
-      h2, .container, .centered, .postspage {
+      h2, .container, .centered, .postspage a, .postspage h2{
         font-size: 15px;
       }
 
