@@ -169,7 +169,7 @@ a:link {
       }
   
       a {
-          font-size: 10px;
+          font-size: 15px;
       }
   
       .rooftop h1, .d1 h1  {
@@ -182,7 +182,7 @@ a:link {
       }
   
       .centered, .container, .postspage a {
-        font-size: 10px;
+        font-size: 20px;
       }
   
     }
