@@ -183,8 +183,8 @@ a:link {
         padding: 0%;
     }
 
-    .centered, .container, .postspage {
-      font-size: 20px;
+    .centered, .container, .postspage a {
+      font-size: 10px;
     }
 
   }
