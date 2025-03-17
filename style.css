@@ -31,11 +31,7 @@ h1 {
     
 }
 
-h2 {
-    font-size: 40px;
-}
-
-h3, p, a {
+p, a {
     color: rgb(145, 95, 64);
     font-family:'freight-big-pro';
     font-weight: normal;
@@ -49,11 +45,6 @@ a:hover {
 
 a:link {
   text-decoration: none;
-}
-
-.button {
-  padding: 8px;
-
 }
 
 .menu {
@@ -74,7 +65,6 @@ a:link {
   filter: brightness(50%);
 }
 .postspage a {
-  font-size: 80px;
   color: rgb(255, 231, 196);  
 }
 
@@ -202,6 +192,9 @@ a:link {
       font-size: 10px;
     }
     .centered {
+      font-size: 10px;
+    }
+    .container a {
       font-size: 10px;
     }
 
