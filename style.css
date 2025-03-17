@@ -164,7 +164,7 @@ a:link {
           padding: 0%;
       }
   
-      .postspage h2 {
+      .postspage a, .postspage h2 {
         font-size: 20px;
       }
 
