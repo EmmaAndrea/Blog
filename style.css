@@ -166,7 +166,7 @@ a:link {
           padding: 0%;
       }
   
-      h2, .container, .centered, .postspage a, .postspage h2{
+      .postspage a, .postspage h2{
         font-size: 15px;
       }
 
