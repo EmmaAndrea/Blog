@@ -6,36 +6,34 @@ body {
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    font-family:'freight-big-pro';
+  position: relative;
+  text-align: center;
+  font-family:'freight-big-pro';
 }
 
 .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: rgb(255, 231, 196)
-    
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(255, 231, 196)
 }
 
 h1 {
-    color: rgb(145, 95, 64);
-    font-family: 'freight-big-pro';
-    font-size: 101px;
-    font-weight: normal;
-    letter-spacing: -6.5px;
-    overflow-wrap: break-world;
-    
+  color: rgb(145, 95, 64);
+  font-family: 'freight-big-pro';
+  font-size: 101px;
+  font-weight: normal;
+  letter-spacing: -6.5px;
+  overflow-wrap: break-world;
 }
 
 p, a {
-    color: rgb(145, 95, 64);
-    font-family:'freight-big-pro';
-    font-weight: normal;
-    letter-spacing: -0.5px;
-    font-size: 20px;
+  color: rgb(145, 95, 64);
+  font-family:'freight-big-pro';
+  font-weight: normal;
+  letter-spacing: -0.5px;
+  font-size: 20px;
 }
 
 a:hover {
@@ -165,7 +163,7 @@ a:link {
       }
   
       .postspage a, .postspage h2 {
-        font-size: 20px;
+        font-size: 25px;
       }
 
       a {
