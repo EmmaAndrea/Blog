@@ -143,6 +143,9 @@ a:link {
         flex: 50%;
         max-width: 50%;
       }
+      .postspage a, .postspage h2 {
+        font-size: 25px;
+      }
     }
     
     /* phone */
