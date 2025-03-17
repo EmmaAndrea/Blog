@@ -162,9 +162,7 @@ a:link {
         vertical-align: middle;
       }
   
-      a {
-          font-size: 15px;
-      }
+     
   
       .rooftop h1, .d1 h1  {
           font-size: 40px;
@@ -177,6 +175,9 @@ a:link {
   
       .centered, .container, .postspage a {
         font-size: 25px;
+      }
+      a {
+        font-size: 15px;
       }
   
     }
