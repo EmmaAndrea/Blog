@@ -148,6 +148,9 @@ a:link {
     h2 {
         font-size: 20px;
     }
+    .postspage a {
+      font-size: 30px;
+    } 
     
   }
 
@@ -159,8 +162,8 @@ a:link {
     h2, a {
         font-size: 18px;
     }
-    .postspage {
-      font-size: 18px;
+    .postspage a {
+      font-size: 20px;
     }
     
   }
@@ -195,8 +198,8 @@ a:link {
         padding: 0%;
     }
 
-    .postspage {
-      font-size: 15px;
+    .postspage a {
+      font-size: 20px;
     }
 
   }
