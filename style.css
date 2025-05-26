@@ -36,6 +36,14 @@ p, a {
   font-size: 20px;
 }
 
+a:hover h1{
+  color: hotpink;
+}
+
+a:hover h2{
+  color: hotpink;
+}
+
 a:hover {
   color: hotpink;
 }
